@@ -1,5 +1,5 @@
-number1 = 3
-number2 = -5
+number1 = int(input("Number 1: "))
+number2 = int(input("Number 2: "))
 
 result = number1 + number2
 
